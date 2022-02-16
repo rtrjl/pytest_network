@@ -1,0 +1,6 @@
+Kiev-47
+Madrid-40
+Napoli-50
+Paris-66
+Riga-46
+Stuttgard-64
